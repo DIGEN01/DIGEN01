@@ -61,13 +61,13 @@
 
 ## 🧠 Core Competencies
 
-- 🔬 **Statistical Hypothesis Testing** — A/B testing, t-tests, chi-square, and interpreting p-values for real business decisions
-- 📊 **EDA & Data Storytelling** — Turning messy datasets into clear, actionable insights with compelling visuals
+- 🔬 **Statistical Hypothesis Testing**: A/B testing, t-tests, chi-square, and interpreting p-values for real business decisions
+- 📊 **EDA & Data Storytelling**: Turning messy datasets into clear, actionable insights with compelling visuals
 - 🔄 **Ensemble Modeling** — Building robust models using Random Forest, XGBoost, and Gradient Boosting
-- 🧪 **Model Evaluation & Validation** — Confusion matrices, cross-validation, ROC-AUC, and avoiding overfitting
-- 🗃️ **Data Preprocessing & Feature Engineering** — Cleaning, transforming, and extracting value from raw data
-- 📈 **Time-Series & Forecasting** — Handling temporal patterns and building predictive models for future trends
-- 🧩 **Clustering & Segmentation** — Unsupervised learning for customer profiling and pattern discovery
+- 🧪 **Model Evaluation & Validation**: Confusion matrices, cross-validation, ROC-AUC, and avoiding overfitting
+- 🗃️ **Data Preprocessing & Feature Engineering**: Cleaning, transforming, and extracting value from raw data
+- 📈 **Time-Series & Forecasting**: Handling temporal patterns and building predictive models for future trends
+- 🧩 **Clustering & Segmentation**: Unsupervised learning for customer profiling and pattern discovery
 
 ---
 
@@ -78,7 +78,7 @@
 - 📐 **Statistical testing** & model validation best practices
 - 📦 **Recommendation systems** and customer profiling
 - 🗄️ Deeper **SQL database design** and schema optimization
-- 📚 Learning **Advanced SQL** — window functions, CTEs, query optimization, and stored procedures
+- 📚 Learning **Advanced SQL**,nested queries, window functions, CTEs, query optimization, and stored procedures
 
 ---
 
